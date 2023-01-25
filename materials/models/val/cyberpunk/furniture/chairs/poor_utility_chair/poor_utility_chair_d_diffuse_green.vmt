@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\val\cyberpunk\furniture\poor_utility_chair\poor_utility_chair_d_diffuse_green"
+	"$bumpmap" "models/val/cyberpunk/shared/normal"
+
+	$alphatest 1
+	$nocull 1
+}

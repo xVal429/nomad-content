@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\val\cyberpunk\furniture\tv\xx_television_a_decals_normal"
+	"$basetexture" "models\val\cyberpunk\furniture\tv\xx_television_a_decals_normal_n"
+
+	$alphatest 1
+	$nocull 1
+}

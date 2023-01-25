@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\val\cyberpunk\furniture\tv\xx_screen"
+
+	$alphatest 1
+	$nocull 1
+}

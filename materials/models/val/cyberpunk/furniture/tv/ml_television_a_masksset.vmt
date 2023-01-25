@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\val\cyberpunk\furniture\tv\ml_television_a_masksset"
+	"$basetexture" "models\val\cyberpunk\furniture\tv\ml_television_a_masksset_n"
+
+	$alphatest 1
+	$nocull 1
+}
