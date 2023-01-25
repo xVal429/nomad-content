@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/val/cyberpunk/objects/money/money_a_mat"
+	//"$bumpmap" "models/val/cyberpunk/objects/money/money_a_mat"
+
+	$alphatest 1
+	$alphatestreference	1
+	$nocull 1
+}

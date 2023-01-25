@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/val/cyberpunk/objects/magazine/magazine_03"
+	"$bumpmap" "models/val/cyberpunk/objects/magazine/magazine_03_n"
+
+	$alphatest 1
+	$alphatestreference	1
+	$nocull 1
+}
