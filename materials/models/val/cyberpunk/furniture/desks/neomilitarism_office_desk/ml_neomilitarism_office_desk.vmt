@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\val\cyberpunk\furniture\desks\neomilitarism_office_desk\ml_neomilitarism_office_desk"
+	"$bumpmap" "models\val\cyberpunk\furniture\desks\neomilitarism_office_desk\ml_neomilitarism_office_desk_n"
+
+	$alphatest 1
+	$nocull 1
+}
